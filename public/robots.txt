@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://born2fly.in/sitemap.xml

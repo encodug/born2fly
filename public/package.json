@@ -1,0 +1,22 @@
+{
+  "name": "born2fly",
+  "version": "1.0.0",
+  "description": "Travel Website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://encodug@bitbucket.org/encodug/born-2-fly.git"
+  },
+  "author": "Encodug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://bitbucket.org/encodug/born-2-fly/issues"
+  },
+  "homepage": "https://bitbucket.org/encodug/born-2-fly#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1"
+  }
+}
